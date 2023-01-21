@@ -2,13 +2,13 @@ import java.util.Arrays;
 
 public class Main {
     public static void main(String[] args) {
-        task0();
-        System.out.println();
+       /* task0();
+        System.out.println();*/
         task1();
         System.out.println();
         }
 
-        public static void task0(){
+    /*    public static void task0(){
             int [] weights = {90,91,93,92,85,87,88,89,0,0,0,0};
             weights[0] = 90;
             int januaryWeight = weights[0];
@@ -22,7 +22,7 @@ public class Main {
                 System.out.println(weights[i]);
             }
         }
-
+*/
         public static void task1(){
             int [] arr1 = new int[3];
             arr1[0] = 1;
